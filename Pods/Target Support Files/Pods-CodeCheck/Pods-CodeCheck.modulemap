@@ -1,0 +1,6 @@
+framework module Pods_CodeCheck {
+  umbrella header "Pods-CodeCheck-umbrella.h"
+
+  export *
+  module * { export * }
+}
